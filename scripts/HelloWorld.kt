@@ -32,7 +32,7 @@ fun main(args: Array<String>) {
             buffer2.append(buffer)
         } else {
             buffer.setLength(0)
-            buffer.append(buffer2)
+            buffer.append(buffer2) //hello world
         }
     }
 }
